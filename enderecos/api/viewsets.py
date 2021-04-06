@@ -2,7 +2,7 @@ from rest_framework.viewsets import ModelViewSet
 from enderecos.models import Endereco
 from .serializers import EnderecoSerializer
 
-class EnderecosViewSet(ModelViewSet):
+class EnderecoViewSet(ModelViewSet):
     """
     A simple ViewSet for viewing and editing accounts.
     """

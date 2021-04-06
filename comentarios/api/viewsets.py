@@ -2,7 +2,7 @@ from rest_framework.viewsets import ModelViewSet
 from comentarios.models import Comentario
 from .serializers import ComentarioSerializer
 
-class ComentariosViewSet(ModelViewSet):
+class ComentarioViewSet(ModelViewSet):
     """
     A simple ViewSet for viewing and editing accounts.
     """
