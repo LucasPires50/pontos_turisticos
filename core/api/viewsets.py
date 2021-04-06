@@ -1,5 +1,6 @@
 from rest_framework.viewsets import ModelViewSet
 from core.models import PontoTuristico
+from atracoes.models import Atracao
 from .serializers import PontoTuristicoSerializer
 
 class PontoTuristicoViewSet(ModelViewSet):

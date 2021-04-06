@@ -18,7 +18,7 @@ from django.conf.urls import include
 from django.urls import path
 from rest_framework import routers
 from core.api.viewsets import PontoTuristicoViewSet
-from core.api.viewsets import AtracoesViewSet
+from atracoes.api.viewsets import AtracoesViewSet
 
 routers = routers.DefaultRouter()
 routers.register(r'pontoturistico', PontoTuristicoViewSet)
