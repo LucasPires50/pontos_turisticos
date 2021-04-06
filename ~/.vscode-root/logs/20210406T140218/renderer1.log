@@ -6,3 +6,5 @@
 	at TLSWrap.onStreamRead (internal/stream_base_commons.js:205:27)
 [2021-04-06 17:06:14.770] [renderer1] [error] read ECONNRESET: Error: read ECONNRESET
 	at TLSWrap.onStreamRead (internal/stream_base_commons.js:205:27)
+[2021-04-06 17:36:14.772] [renderer1] [error] read ECONNRESET: Error: read ECONNRESET
+	at TLSWrap.onStreamRead (internal/stream_base_commons.js:205:27)
