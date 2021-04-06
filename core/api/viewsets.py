@@ -9,7 +9,7 @@ class PontoTuristicoViewSet(ModelViewSet):
     """
     A simple ViewSet for viewing and editing accounts.
     """
-
+    
     serializer_class = PontoTuristicoSerializer
 
     def get_queryset(self):
@@ -20,7 +20,7 @@ class PontoTuristicoViewSet(ModelViewSet):
 
         if id:
             queryset = queryset = PontoTuristico.objects.filter(pk=id)
-            
+
         if nome: 
             queryset = queryset.filter(nome__iexact=nome)
 

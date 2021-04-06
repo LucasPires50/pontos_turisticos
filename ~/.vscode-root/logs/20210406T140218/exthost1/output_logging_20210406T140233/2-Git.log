@@ -380,3 +380,111 @@ Open repository: /home/lucaspires/pontos_turisticos
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/core/api/viewsets.py
+> git cat-file -s 0d055e2ec16d35f0b70078c8db583fbb15ce6c25
+> git show --textconv :core/api/viewsets.py
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :pontos_turisticos/settings.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/pontos_turisticos/settings.py
+> git cat-file -s 89e6afa76d45437c57bd140c135c1148c939dff7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :atracoes/api/serializers.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/atracoes/api/serializers.py
+> git cat-file -s f3dcec7822e7c7f580f4fd5577a71779eb71cf22
+> git show --textconv :atracoes/api/viewsets.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/atracoes/api/viewsets.py
+> git cat-file -s ee34cb171e5915464ef1899781b3ee2ec2b9b50f
+> git show --textconv :atracoes/models.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/atracoes/models.py
+> git cat-file -s 7756dd5a07ca9f231892e8f24422a0d7d0d74f79
+> git show --textconv :atracoes/api/viewsets.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/atracoes/api/viewsets.py
+> git cat-file -s ee34cb171e5915464ef1899781b3ee2ec2b9b50f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :atracoes/views.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/atracoes/views.py
+> git cat-file -s 91ea44a218fbd2f408430959283f0419c921093e
+> git show --textconv :atracoes/apps.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/atracoes/apps.py
+> git cat-file -s 891cc16cae88bf16791da0c3f9dbc5ad52058490
+> git show --textconv :atracoes/models.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/atracoes/models.py
+> git cat-file -s 7756dd5a07ca9f231892e8f24422a0d7d0d74f79
+> git show --textconv :atracoes/api/viewsets.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/atracoes/api/viewsets.py
+> git cat-file -s ee34cb171e5915464ef1899781b3ee2ec2b9b50f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
