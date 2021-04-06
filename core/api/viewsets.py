@@ -14,7 +14,10 @@ class PontoTuristicoViewSet(ModelViewSet):
         return PontoTuristico.objects.filter(aprovado=True)
 
     def list(self, request, *args, **kwargs):
-        return Response({ 'teste': 123 })
+        return Response({'teste': 123})
 
     def create(self, request, *args, **kwargs):
-        return Response({ 'Hello Word': request.data['nome']})
+        return Response({'Hello Word': request.data['nome']})
+
+    def destroy(self, request, *args, **kwargs):
+        pass
