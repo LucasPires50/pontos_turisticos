@@ -1,5 +1,6 @@
 from rest_framework.viewsets import ModelViewSet
 from rest_framework.response import Response
+from rest_framework.decorators import action
 from core.models import PontoTuristico
 from .serializers import PontoTuristicoSerializer
 
@@ -8,6 +9,7 @@ class PontoTuristicoViewSet(ModelViewSet):
     """
     A simple ViewSet for viewing and editing accounts.
     """
+    queryset = PontoTuristico.objects.all()
     serializer_class = PontoTuristicoSerializer
 
     def get_queryset(self):
@@ -29,4 +31,12 @@ class PontoTuristicoViewSet(ModelViewSet):
         pass
 
     def partial_update(self, request, *args, **kwargs):
+        pass
+
+    @action(methods=['post', 'get'], detail=True)
+    def denunciar(self, request, pk=None):
+        pass
+    
+    @action (methods='get', detail=False)
+    def teste(self, request):
         pass
