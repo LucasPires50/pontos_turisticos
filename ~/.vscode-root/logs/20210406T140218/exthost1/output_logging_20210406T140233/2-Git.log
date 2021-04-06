@@ -802,3 +802,105 @@ Open repository: /home/lucaspires/pontos_turisticos
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/pontos_turisticos/urls.py
+> git cat-file -s 40bdf5fb4875ad3f2be4965cf708684296bbb9de
+> git show --textconv :pontos_turisticos/urls.py
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :core/models.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/core/models.py
+> git cat-file -s a30378924cdd102872706735b8f5aad7d367dab1
+> git show --textconv :core/api/viewsets.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/core/api/viewsets.py
+> git cat-file -s 34dea987eb426c5b75e0d0293fc249c0d8038912
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :core/models.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/core/models.py
+> git cat-file -s a30378924cdd102872706735b8f5aad7d367dab1
+> git show --textconv :atracoes/api/serializers.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/atracoes/api/serializers.py
+> git cat-file -s f3dcec7822e7c7f580f4fd5577a71779eb71cf22
+> git show --textconv :pontos_turisticos/urls.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/pontos_turisticos/urls.py
+> git cat-file -s 40bdf5fb4875ad3f2be4965cf708684296bbb9de
+> git show --textconv :pontos_turisticos/settings.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/pontos_turisticos/settings.py
+> git cat-file -s 84d8ef617df1f7b9ec1f97e0762e501ee6716ffe
+> git show --textconv :core/api/viewsets.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/core/api/viewsets.py
+> git cat-file -s 34dea987eb426c5b75e0d0293fc249c0d8038912
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
