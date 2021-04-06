@@ -15,3 +15,4 @@ Error 2021-04-06 14:06:13: Jupyter Extension (Error in Failed to update settings
 > /usr/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/pythonFiles/pyvsc-run-isolated.py pip list
 > /usr/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/pythonFiles/pyvsc-run-isolated.py -c "import pip"
 > /usr/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/pythonFiles/pyvsc-run-isolated.py -c "import pip"
+> /home/lucaspires/pontos_turisticos/venv/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/pythonFiles/pyvsc-run-isolated.py pip list
