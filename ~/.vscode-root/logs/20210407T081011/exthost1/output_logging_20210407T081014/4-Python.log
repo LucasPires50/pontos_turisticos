@@ -1,0 +1,723 @@
+User belongs to experiment group 'pythonaacf'
+User belongs to experiment group 'pythonSendEntireLineToREPL'
+User belongs to experiment group 'pythonNotDisplayLinterPrompt'
+User belongs to experiment group 'pythonDiscoveryModule'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+Error 2021-04-07 08:10:14: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2'
+}
+Error 2021-04-07 08:10:15: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2.7'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2.7'
+}
+> python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+Error 2021-04-07 08:10:15: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python3.8'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python3.8'
+}
+Error 2021-04-07 08:10:15: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2'
+}
+Error 2021-04-07 08:10:15: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2.7'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2.7'
+}
+Error 2021-04-07 08:10:15: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python3.8'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python3.8'
+}
+Error 2021-04-07 08:10:15: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2'
+}
+Error 2021-04-07 08:10:15: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2.7'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2.7'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2.7'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2.7'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2.7'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2.7'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python3.8'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python3.8'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python3.8'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python3.8'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python3.8'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python3.8'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2.7'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2.7'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2.7'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2.7'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2.7'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2.7'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python3.8'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python3.8'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python3.8'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python3.8'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python3.8'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python3.8'
+}
+Error 2021-04-07 08:10:16: Failed to parse version from path: /usr/bin/python [Error: invalid version python
+	at u (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:9:201380)
+	at Object.c [as parseVersion] (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:9:200689)
+	at f.buildPathEnvInfo (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:78:29613)
+	at f.resolveEnv (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:78:29553)
+	at E.resolveEnv (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:29:4116)
+	at t.PythonEnvsReducer.resolveEnv (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:59:761268)
+	at async t.PythonEnvsResolver.resolveEnv (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:59:762469)
+	at async u.doResolveEnv (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:59:756609)
+	at async H.getInterpreterDetails (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:78:39004)
+	at async T.getInterpreterDetails (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:59:646216)
+	at async getInitialInterpreterImpl (/root/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:9:77890)
+	at async getSelectedInterpreter (/root/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:9:75182)
+	at async d.preWarmInterpreterVariables (/root/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:49:818094)]
+Error 2021-04-07 08:10:16: Failed to parse version from path: /usr/bin/python [Error: invalid version python
+	at u (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:9:201380)
+	at Object.c [as parseVersion] (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:9:200689)
+	at f.buildPathEnvInfo (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:78:29613)
+	at f.resolveEnv (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:78:29553)
+	at E.resolveEnv (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:29:4116)
+	at t.PythonEnvsReducer.resolveEnv (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:59:761268)
+	at async t.PythonEnvsResolver.resolveEnv (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:59:762469)
+	at async u.doResolveEnv (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:59:756609)
+	at async H.getInterpreterDetails (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:78:39004)
+	at async T.getInterpreterDetails (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:59:646216)
+	at async f.trackPackagesOfActiveInterpreter (/root/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:49:745923)
+	at async f.trackUponActivation (/root/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:49:745761)]
+Error 2021-04-07 08:10:16: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file '/root/.config/Code/User/settings.json' (Error: Unable to resolve non-existing file '/root/.config/Code/User/settings.json')
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:86:136165)
+	at processTicksAndRejections (internal/process/task_queues.js:97:5)
+	at async y.readText (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:9:298390)
+	at async p.doesFileNeedToBeFixed (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:59:481011)
+	at async /root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:59:480138
+	at async Promise.all (index 0)
+	at async p.getFilesToBeFixed (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:59:480084)
+	at async p.updateTestSettings (/root/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension.js:59:479711)] {
+  code: 'FileNotFound'
+}
+Python interpreter path: /home/lucaspires/pontos_turisticos/venv/bin/python
+Starting Jedi Python language engine.
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2.7'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2.7'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python3.8'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python3.8'
+}
+> conda --version
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python2.7'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python2.7'
+}
+Error 2021-04-07 08:10:16: Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat 'python3.8'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python3.8'
+}
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.prefix)"
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.prefix)"
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py site --user-site
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py site --user-site
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py
+Error 2021-04-07 08:10:16: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/core/api/viewsets.py
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/core/api/viewsets.py
+cwd: /home/lucaspires/pontos_turisticos
+##########Linting Output - pylint##########
+Error 2021-04-07 08:20:30: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+
+Error 2021-04-07 08:20:30: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:20:30: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:626: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).infer instead.
+  script.goto_definitions(), request["id"]
+
+Error 2021-04-07 08:20:42: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Use the code keyword argument instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:20:42: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:144: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_signatures instead.
+  call_signatures = script.call_signatures()
+
+Error 2021-04-07 08:20:43: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:20:44: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+
+Error 2021-04-07 08:20:44: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Use the code keyword argument instead.
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:20:44: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:105: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_signatures instead.
+  call_signatures = script.call_signatures()
+
+Error 2021-04-07 08:20:44: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:230: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).complete instead.
+  completions = script.completions()
+
+Error 2021-04-07 08:20:45: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:20:47: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:20:48: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:20:49: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:20:51: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:20:52: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+
+Error 2021-04-07 08:20:52: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Use the code keyword argument instead.
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:626: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).infer instead.
+  script.goto_definitions(), request["id"]
+
+Error 2021-04-07 08:20:53: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:603: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).goto instead.
+  script.goto_assignments(follow_imports=True), request["id"]
+
+Error 2021-04-07 08:20:54: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:21:03: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+
+Error 2021-04-07 08:21:03: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:21:03: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:626: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).infer instead.
+  script.goto_definitions(), request["id"]
+
+Error 2021-04-07 08:21:28: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Use the code keyword argument instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:21:34: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:105: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_signatures instead.
+  call_signatures = script.call_signatures()
+
+Error 2021-04-07 08:21:34: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:230: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).complete instead.
+  completions = script.completions()
+
+Error 2021-04-07 08:21:36: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:22:09: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:22:15: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Use the code keyword argument instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:22:15: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:22:15: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:105: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_signatures instead.
+  call_signatures = script.call_signatures()
+
+Error 2021-04-07 08:22:15: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:230: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).complete instead.
+  completions = script.completions()
+
+Error 2021-04-07 08:22:16: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:22:21: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:22:22: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:22:25: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:22:27: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:22:28: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:22:36: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:22:36: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:22:37: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:22:38: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Use the code keyword argument instead.
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:22:38: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:105: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_signatures instead.
+  call_signatures = script.call_signatures()
+
+Error 2021-04-07 08:22:38: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:230: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).complete instead.
+  completions = script.completions()
+
+Error 2021-04-07 08:22:39: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:22:42: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Use the code keyword argument instead.
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:22:42: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:105: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_signatures instead.
+  call_signatures = script.call_signatures()
+
+Error 2021-04-07 08:22:42: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:230: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).complete instead.
+  completions = script.completions()
+
+Error 2021-04-07 08:22:43: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:22:44: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+
+Error 2021-04-07 08:22:44: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Use the code keyword argument instead.
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:22:44: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:105: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_signatures instead.
+  call_signatures = script.call_signatures()
+
+Error 2021-04-07 08:22:44: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:230: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).complete instead.
+  completions = script.completions()
+
+Error 2021-04-07 08:22:46: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:22:46: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Use the code keyword argument instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:22:46: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:22:46: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:105: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_signatures instead.
+  call_signatures = script.call_signatures()
+
+Error 2021-04-07 08:22:46: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:230: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).complete instead.
+  completions = script.completions()
+
+Error 2021-04-07 08:22:48: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:22:48: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Use the code keyword argument instead.
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:22:48: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:105: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_signatures instead.
+  call_signatures = script.call_signatures()
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:230: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).complete instead.
+  completions = script.completions()
+
+Error 2021-04-07 08:22:49: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:22:52: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Use the code keyword argument instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:22:52: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:626: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).infer instead.
+  script.goto_definitions(), request["id"]
+
+Error 2021-04-07 08:23:07: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:105: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_signatures instead.
+  call_signatures = script.call_signatures()
+
+Error 2021-04-07 08:23:07: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:230: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).complete instead.
+  completions = script.completions()
+
+Error 2021-04-07 08:23:08: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:23:09: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/core/api/viewsets.py
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/core/api/viewsets.py
+cwd: /home/lucaspires/pontos_turisticos
+##########Linting Output - pylint##########
+Error 2021-04-07 08:23:16: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+
+Error 2021-04-07 08:23:16: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:626: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).infer instead.
+  script.goto_definitions(), request["id"]
+
+Error 2021-04-07 08:23:20: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:603: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).goto instead.
+  script.goto_assignments(follow_imports=True), request["id"]
+
+Error 2021-04-07 08:23:23: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Use the code keyword argument instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:23:23: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/core/api/viewsets.py
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/core/api/viewsets.py
+cwd: /home/lucaspires/pontos_turisticos
+##########Linting Output - pylint##########
+Error 2021-04-07 08:23:24: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+
+Error 2021-04-07 08:23:24: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:626: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).infer instead.
+  script.goto_definitions(), request["id"]
+
+Error 2021-04-07 08:23:41: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:603: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).goto instead.
+  script.goto_assignments(follow_imports=True), request["id"]
+
+Error 2021-04-07 08:23:42: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Use the code keyword argument instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:23:42: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:105: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_signatures instead.
+  call_signatures = script.call_signatures()
+
+Error 2021-04-07 08:23:42: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:230: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).complete instead.
+  completions = script.completions()
+
+Error 2021-04-07 08:23:43: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:23:44: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Use the code keyword argument instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:23:44: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:23:44: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:144: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_signatures instead.
+  call_signatures = script.call_signatures()
+
+Error 2021-04-07 08:23:46: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/core/api/viewsets.py
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/core/api/viewsets.py
+cwd: /home/lucaspires/pontos_turisticos
+##########Linting Output - pylint##########
+Error 2021-04-07 08:23:50: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:626: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).infer instead.
+  script.goto_definitions(), request["id"]
+
+Error 2021-04-07 08:23:57: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:23:59: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:24:02: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:24:03: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Use the code keyword argument instead.
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:24:03: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:144: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_signatures instead.
+  call_signatures = script.call_signatures()
+
+Error 2021-04-07 08:24:04: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:24:07: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Use the code keyword argument instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:24:07: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:626: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).infer instead.
+  script.goto_definitions(), request["id"]
+
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/core/api/viewsets.py
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/core/api/viewsets.py
+cwd: /home/lucaspires/pontos_turisticos
+##########Linting Output - pylint##########
+Error 2021-04-07 08:25:56: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:603: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).goto instead.
+  script.goto_assignments(follow_imports=True), request["id"]
+
+Error 2021-04-07 08:25:57: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 08:26:02: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+
+Error 2021-04-07 08:26:02: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:26:02: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:626: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).infer instead.
+  script.goto_definitions(), request["id"]
+
+Error 2021-04-07 08:26:05: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+
+Error 2021-04-07 08:26:05: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:26:05: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:626: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).infer instead.
+  script.goto_definitions(), request["id"]
+
+Error 2021-04-07 08:26:10: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:603: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).goto instead.
+  script.goto_assignments(follow_imports=True), request["id"]
+
+Error 2021-04-07 08:26:14: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+
+Error 2021-04-07 08:26:14: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:626: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).infer instead.
+  script.goto_definitions(), request["id"]
+
+Error 2021-04-07 08:26:15: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:603: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).goto instead.
+  script.goto_assignments(follow_imports=True), request["id"]
+
+Error 2021-04-07 08:26:16: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/core/api/viewsets.py
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/core/api/viewsets.py
+cwd: /home/lucaspires/pontos_turisticos
+##########Linting Output - pylint##########
+Error 2021-04-07 08:26:20: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Use the code keyword argument instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:26:20: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+
+Error 2021-04-07 08:26:20: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:626: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).infer instead.
+  script.goto_definitions(), request["id"]
+
+Error 2021-04-07 08:26:21: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/core/api/viewsets.py
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/core/api/viewsets.py
+cwd: /home/lucaspires/pontos_turisticos
+##########Linting Output - pylint##########
+Error 2021-04-07 08:30:12: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+
+Error 2021-04-07 08:30:12: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:626: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).infer instead.
+  script.goto_definitions(), request["id"]
+
+Error 2021-04-07 08:30:13: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:603: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).goto instead.
+  script.goto_assignments(follow_imports=True), request["id"]
+
