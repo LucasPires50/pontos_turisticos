@@ -3,7 +3,7 @@ from rest_framework.response import Response
 from rest_framework.decorators import action
 from rest_framework.filters import SearchFilter
 from rest_framework.authentication import TokenAuthentication
-from rest_framework.permissions import IsAuthenticated, IsAuthenticatedOrReadOnly
+from rest_framework.permissions import IsAuthenticated, DjangoModelPermissions
 from core.models import PontoTuristico
 from .serializers import PontoTuristicoSerializer
 
@@ -15,7 +15,7 @@ class PontoTuristicoViewSet(ModelViewSet):
     queryset = PontoTuristico.objects.all()
     serializer_class = PontoTuristicoSerializer
     filter_backends = [SearchFilter,]
-    permission_classes = [IsAuthenticatedOrReadOnly,]
+    permission_classes = [DjangoModelPermissions,]
     authentication_classes = [TokenAuthentication,]
     search_fields = ['nome', 'descricao', 'endereco__linha1']
     lookup_field = 'nome' # tem que ser unico, não pode haver mais de um object
