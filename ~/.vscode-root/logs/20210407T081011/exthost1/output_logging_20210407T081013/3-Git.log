@@ -709,3 +709,42 @@ Open repository: /home/lucaspires/pontos_turisticos
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/runtime.txt
+> git symbolic-ref --short HEAD
+> git cat-file -s 1124509c8bad07cf5d25da7680dd899c514052ca
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :runtime.txt
+> git config --get commit.template
+> git show --textconv :.env
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/.env
+> git cat-file -s cc8b6ca6c12d6b87b73a4fa82e1a2a2eb14d7558
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :pontos_turisticos/urls.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/pontos_turisticos/urls.py
+> git cat-file -s 40bdf5fb4875ad3f2be4965cf708684296bbb9de
+> git show --textconv :pontos_turisticos/settings.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/pontos_turisticos/settings.py
+> git cat-file -s 5137290c3782136c8509786d343b21d71aababca
+> git show --textconv :.env
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/.env
+> git cat-file -s cc8b6ca6c12d6b87b73a4fa82e1a2a2eb14d7558
+> git show --textconv :pontos_turisticos/settings.py
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/pontos_turisticos/settings.py
+> git cat-file -s 5137290c3782136c8509786d343b21d71aababca
+> git show --textconv :.env
+> git ls-files --stage -- /home/lucaspires/pontos_turisticos/.env
+> git cat-file -s cc8b6ca6c12d6b87b73a4fa82e1a2a2eb14d7558
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
