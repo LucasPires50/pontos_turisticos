@@ -3559,3 +3559,81 @@ cwd: /home/lucaspires/pontos_turisticos
 cwd: /home/lucaspires/pontos_turisticos
 > /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
 cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py site --user-site
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py site --user-site
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.prefix)"
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.prefix)"
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: /home/lucaspires/pontos_turisticos
+Error 2021-04-07 13:23:25: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 13:32:58: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 13:32:58: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/pontos_turisticos/settings.py
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/pontos_turisticos/settings.py
+cwd: /home/lucaspires/pontos_turisticos
+##########Linting Output - pylint##########
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/pontos_turisticos/settings.py
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/pontos_turisticos/settings.py
+cwd: /home/lucaspires/pontos_turisticos
+Error 2021-04-07 13:33:07: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+##########Linting Output - pylint##########
+Error 2021-04-07 13:33:16: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+
+Error 2021-04-07 13:33:16: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:626: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).infer instead.
+  script.goto_definitions(), request["id"]
+
+Error 2021-04-07 13:33:18: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 13:33:20: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 13:33:21: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+Error 2021-04-07 13:33:24: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/pontos_turisticos/settings.py
+cwd: /home/lucaspires/pontos_turisticos
+> /home/lucaspires/pontos_turisticos/venv/bin/python ~/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pylint --disable=W0312 --load-plugins=pylint_django --django-settings-module=<mainapp>.settings --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text /home/lucaspires/pontos_turisticos/pontos_turisticos/settings.py
+cwd: /home/lucaspires/pontos_turisticos
+##########Linting Output - pylint##########
+Error 2021-04-07 13:33:25: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+
+Error 2021-04-07 13:33:25: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+/root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:626: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).infer instead.
+  script.goto_definitions(), request["id"]
+
+Error 2021-04-07 13:33:25: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
