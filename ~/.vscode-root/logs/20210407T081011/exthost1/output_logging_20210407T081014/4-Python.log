@@ -10583,3 +10583,5 @@ Error 2021-04-07 17:44:48: stderr jediProxy Error (stderr) /root/.vscode/extensi
 Error 2021-04-07 17:44:51: stderr jediProxy Error (stderr) /root/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/completion.py:603: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).goto instead.
   script.goto_assignments(follow_imports=True), request["id"]
 
+Error 2021-04-07 17:59:26: Error while running worker[Worker 2]. undefined
+Error 2021-04-07 17:59:26: Error while running worker[Worker 1]. undefined
